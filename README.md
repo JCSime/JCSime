@@ -1,4 +1,4 @@
-# Well, hello there!
+# Well, hello there! 👋
 
 ## My name is John, I'm a Dominican-American🇩🇴 FullStack Dev 
 
