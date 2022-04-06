@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Sime</h1>
-<h3 align="center">A passionate frontend developer from the Dominican Republic</h3>
+<h3 align="center">A passionate software developer from the Dominican Republic</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JCSime](https://github.com/JCSime)
 
